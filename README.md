@@ -10,3 +10,6 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?FB8D8F15161CC76456D6F3943
 
 Word Doc:
 https://univoftulsa-my.sharepoint.com/:w:/r/personal/bra7349_utulsa_edu/Documents/Hacklahoma%202025.docx?d=w8b7594b965c8431d998a56f87c310c4d&csf=1&web=1&e=NZ002K
+
+Devpost:
+https://devpost.com/software/875475/joins/iAUnvOU-H43UD5mYF4S1Jw
