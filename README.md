@@ -3,7 +3,7 @@ Hacklahoma 2025 - Limit Technology Use
 
 An app that uses only the essential parts of social media apps while forgoing its addictive features
 
-Diddy
+
 
 Collab Live Share Link:
 https://prod.liveshare.vsengsaas.visualstudio.com/join?38D238EE226217FDDEF9102A6E668B93B024
